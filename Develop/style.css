@@ -1,10 +1,10 @@
 .heading{
     background-color:royalblue;
 }
-.searcharea {
-    background-color: #e6f2ff;
-    padding: 20px;
+#prevSearches{
+    color: red;
 }
+
 
 .uvindex {
     padding: 5px;
@@ -35,5 +35,6 @@
 
 #searchbtn{
     padding: 6px 5px 0px 5px;
+    color: gold ;
 
 }
