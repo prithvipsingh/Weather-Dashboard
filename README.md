@@ -1,5 +1,5 @@
 # Deployed Application Link:
-
+https://prithvipsingh.github.io/Weather-Dashboard/Develop/index.html
 
 # 06 Server-Side APIs: Weather Dashboard
 
